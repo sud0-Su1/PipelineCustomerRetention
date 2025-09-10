@@ -97,7 +97,8 @@ The solution leverages **Azure Databricks, Delta Lake, MLflow, and Power BI** to
 ---
 
 ## 📊 Sample Dashboard  
-*(Add screenshot here once available)*  
+
+
 
 ---
 
